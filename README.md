@@ -1,1 +1,2 @@
-# airdrops
+# Airdrop List
+## Zksync Era
