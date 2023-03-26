@@ -1,4 +1,4 @@
-### Learn more: zksync.io
-### Bridge funds from Ethereum: bridge.zksync.io
-### Checkout the ecosystem: ecosystem.zksync.io
-### Explore the ecosystem: explorer.zksync.io
+### Learn more: https://www.zksync.io
+### Bridge funds from Ethereum: https://www.bridge.zksync.io
+### Checkout the ecosystem: https://www.ecosystem.zksync.io
+### Explore the ecosystem: https://www.explorer.zksync.io
