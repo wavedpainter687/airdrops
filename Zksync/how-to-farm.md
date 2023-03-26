@@ -8,13 +8,13 @@ The purpose of this document is to show how to bridge the funds to the zkSync Er
 
 # Add the ZKsync Era Mainnet to Metamask
 
-1) Go to chainlist.org
+1) Go to https://chainlist.org
 2) Search zkSync Era Mainnet
 3) Add to Metamask
 
 # Bridge from ETH to zkSync
 
-1) Go to bridge.zksync.io using your ETH network
+1) Go to https://bridge.zksync.io using your ETH network
 2) Deposit xx amount of ETH to bridge it to zkSync
 
 # Interact with some of the "live-on-era" apps 
@@ -35,6 +35,27 @@ Below are a few examples to transact on zkSync based on the current ecosystem av
 
 ## Use different wallets in the zksync ecosystem
 
-1) Go to the app store on your phone and download/install any of the wallets associated with zkSync's ecosystem: https://www.argent.xyz/download-argent/
-2) Send ETH to the Wallet
+1) Go download/install any of the wallets associated with zkSync's ecosystem: https://www.blockwallet.io/
+2) Send your ETH from metamask/default wallet to zkSynch specific wallet and use that for transactions as much as possible from now on
 
+## Deposit Liquidity to earn trading fees
+
+1) Go to https://syncswap.xyz
+2) Convert x amount of eth to usdc 
+3) Go to https://syncswap.xyz/pool/0x80115c708E12eDd42E504c1cD52Aea96C547c05c
+4) Deposit x amount of eth/usdc based on your risk tolerance
+
+## Mint some NFTs :)
+
+1) Go to https://mintsquare.io/mint 
+2) Click on Upload and choose any jpegs that you have/like  
+3) Fill out infomation
+4) Mint
+
+## Bridge back to ETH from zkSync Era Mainnet though a Orbiter Finance
+1) Go to https://www.orbiter.finance/?source=zkSync%20Era&dest=Ethereum using ZkSync Mainnet
+2) Choose x amount to bridge back to the mainnet 
+
+
+
+   

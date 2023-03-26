@@ -1,5 +1,5 @@
 # Official ZkSync References
-1) https://twitter.com/zksync/status/1639251197898129408
+1) https://twitter.com/zksync/
 
 
 # Twitter "Influencer" References for zkSync
