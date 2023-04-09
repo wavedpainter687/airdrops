@@ -1,6 +1,12 @@
 # Brief Summary
 
-In order to "farm" $ZKS, you will need to participate in the zkSync network in someway or form. The distribution of the tokens is ultimately based on the team, so we won't know the criteria chosen until its too late. So, in order to maximize your chances of receiving an airdrop, "farm" different areas of the zkSync network. 
+In order to "farm" $ZKS, you will need to participate in the zkSync network in someway or form. The distribution of the tokens is ultimately based on the team, so we won't know the criteria chosen until its too late. So, in order to maximize your chances of receiving an airdrop, "farm" different areas of the zkSync network. Few things to note before we get started:
+
+1) Use liquidity that your willing to lose and never see again. The network can go to shit and you'll never see your money again. Keep this in mind!!!
+2) Diversify your transactions, so that you don't seem like a bot. I'm sure when the airdrop will happen, the team will try to remove any wallet they suspect of being a bot.
+3) Enjoy using the network...It could be the next "BIG" thing and your one of the first people using it :)
+
+
 
 # Purpose
 
@@ -28,9 +34,9 @@ The purpose of this document is to show how to bridge the funds to the zkSync Er
 
 Below are a few examples to transact on zkSync based on the current ecosystem available: 
 
-## Use Mute for Defi purposes and buy/sell crypto
+## Use SyncSwap for Defi purposes and buy/sell crypto
 
-1) Go to https://app.mute.io/swap as zksync network
+1) Go to https://syncswap.xyz/swap as zksync network
 2) use the swap to buy/sell
 
 ## Use different wallets in the zksync ecosystem
@@ -53,9 +59,17 @@ Below are a few examples to transact on zkSync based on the current ecosystem av
 4) Mint
 
 ## Bridge back to ETH from zkSync Era Mainnet though a Orbiter Finance
+
 1) Go to https://www.orbiter.finance/?source=zkSync%20Era&dest=Ethereum using ZkSync Mainnet
 2) Choose x amount to bridge back to the mainnet 
 
+Note: Pro-Tip Orbiter Finance has not released a token yet...could happen sometime in the future.
 
+
+## Hold tokens of Defi/DEX Projects that are live/will go live
+
+1) Syncswap   : $SYNC (airdrop speculation)
+2) ZigZag     : $ZZ
+3) Mute       : $MUTE
 
    
